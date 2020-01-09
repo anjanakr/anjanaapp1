@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 20:44:32</sys_created_on>
+        <sys_id>7c6b0d3cb71200104115e2b9de11a9bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_anjana_app1_tabl1.sn_anjana_app1.tabl1_user</sys_name>
+        <sys_package display_value="ANJANA_APP1" source="sn_anjana_app1">0c9660f0b71200104115e2b9de11a934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ANJANA_APP1">0c9660f0b71200104115e2b9de11a934</sys_scope>
+        <sys_security_acl display_value="sn_anjana_app1_tabl1">346b0d3cb71200104115e2b9de11a9ac</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_7c6b0d3cb71200104115e2b9de11a9bb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 20:44:32</sys_updated_on>
+        <sys_user_role display_value="sn_anjana_app1.tabl1_user" name="sn_anjana_app1.tabl1_user">dc6bc93cb71200104115e2b9de11a9e2</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
