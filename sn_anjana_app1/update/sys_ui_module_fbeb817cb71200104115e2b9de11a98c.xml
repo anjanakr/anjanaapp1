@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="table3">ffeb817cb71200104115e2b9de11a98a</application>
+        <filter/>
+        <name>table3s</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>sn_anjana_app1.table3_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-09 20:46:56</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fbeb817cb71200104115e2b9de11a98c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table3s</sys_name>
+        <sys_package display_value="ANJANA_APP1" source="sn_anjana_app1">0c9660f0b71200104115e2b9de11a934</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ANJANA_APP1">0c9660f0b71200104115e2b9de11a934</sys_scope>
+        <sys_update_name>sys_ui_module_fbeb817cb71200104115e2b9de11a98c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-09 20:46:56</sys_updated_on>
+        <table>sn_anjana_app1_table3</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
